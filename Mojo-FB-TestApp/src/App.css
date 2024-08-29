@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  padding: 20px;
+}
+
+h1 {
+  color: #4267b2;
+  margin-bottom: 20px;
+}
+
+.login-btn {
+  padding: 10px 20px;
+  background-color: #4267b2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-btn:hover {
+  background-color: #365899;
+}
+
+.user-info {
+  margin-top: 20px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.page-selection {
+  margin-top: 20px;
+}
+
+.page-selection select {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.page-insights {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.insight {
+  margin-top: 10px;
+}
+
+.insight h4 {
+  color: #4267b2;
+  margin: 5px 0;
+}

@@ -1,0 +1,39 @@
+.Home {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.user-info {
+  text-align: center;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.page-selection {
+  margin: 20px 0;
+}
+
+.select {
+  margin-right: 10px;
+}
+
+.page-insights {
+  margin-top: 20px;
+}
+
+.insight {
+  margin-bottom: 15px;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+}
